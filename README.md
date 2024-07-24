@@ -26,7 +26,8 @@ Don't forget about joining our discord community! https://discord.gg/CsuXTegewj
   </li>
 </ul>
 
-### Here you can take a look of the menu (fully showcase on https://www.youtube.com/watch?v=2gZ4CpatM68)<p align="center">
+## SHOWCASE 
+Here you can take a look of the menu (fully showcase on https://www.youtube.com/watch?v=2gZ4CpatM68)<p align="center">
 <div style="display: flex; flex-direction: row;">
   <img src="https://github.com/user-attachments/assets/be85a27f-e945-4406-87f1-ab45a0ab154a" width="750" height="500" style="margin: 10px;" />  
   <img src="https://github.com/user-attachments/assets/b7138de7-f94a-4f27-9471-a3c71e650e34" width="750" height="500" style="margin: 10px;" />
