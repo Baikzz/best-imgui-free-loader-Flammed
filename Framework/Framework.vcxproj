@@ -119,7 +119,7 @@
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
-      <AdditionalIncludeDirectories>..\Framework\ext\;..\Framework\src\Headers\;..\Framework\ext\SDK\Include\;..\Framework\ext\misc\;..\Framework\ext\ImGui\;..\Framework\ext\freetype\include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\Framework\ext\;..\Framework\src\Headers\;C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include;..\Framework\ext\misc\;..\Framework\ext\ImGui\;..\Framework\ext\freetype\include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
